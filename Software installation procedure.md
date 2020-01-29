@@ -1,3 +1,5 @@
 # Установка софта
-[Указана здесь]:https://www.draw.io/#G15vlbcPuDeftojYPo18hu9mE0RcfmdK9c
+Указана здесь: [Указана здесь]
+
+[Указана здесь]: https://www.draw.io/#G15vlbcPuDeftojYPo18hu9mE0RcfmdK9c
 ??????????????????
