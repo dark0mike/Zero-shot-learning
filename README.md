@@ -15,3 +15,26 @@ RNN - Реккурентные нейроные сети
 - https://github.com/chichilicious/Generalized-Zero-Shot-Learning-via-Aligned-Variational-Autoencoders
 - https://github.com/Abhipanda4/Feature-Generating-Networks
 - https://github.com/akku1506/Feature-Generating-Networks-for-ZSL
+
+## Рекомендуемые навыки
+1. Английский язык на уровне чтения технической литературы
+2. Знание основ языка python
+3. Понимать базовые нейросети
+ * CNN
+ * RNN
+ * VAE
+ * GAN
+
+## Материалы и курсы по машинному обучению, и python
+1.[Базовый курс по  ML](https://www.coursera.org/learn/machine-learning)
+
+2.[В дополнение](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+
+3.[Keras доступен на офф сайте](https://keras.io/getting-started/sequential-model-guide/)
+
+4.[Книги](https://drive.google.com/drive/folders/1ngisRbvktPKkRaX4pzQs9a6o_WIUubDi?usp=sharing)
+	1. Python и машинное обучение (ru),
+	2. Библиотека Keras - инструмент глубокого обучения,
+	3. Простой Python (ru)) 
+
+5. Канал в телеграмме с подборками книг: https://t.me/python_textbooks
