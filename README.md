@@ -33,6 +33,7 @@ RNN - Реккурентные нейроные сети
 3.[Keras доступен на офф сайте](https://keras.io/getting-started/sequential-model-guide/)
 
 4.[Книги](https://drive.google.com/drive/folders/1ngisRbvktPKkRaX4pzQs9a6o_WIUubDi?usp=sharing)
+
 	1. Python и машинное обучение (ru),
 	2. Библиотека Keras - инструмент глубокого обучения,
 	3. Простой Python (ru)) 
