@@ -6,6 +6,7 @@
  * RNN - реккурентная нейронная сеть
  * VAE -вариационный автоэнкодер
  * GAN - генеративно-состязательная нейронная сеть
+ 
 ## Ознакомительные статьи
 База для проекта.
 - http://nekvi.bet.r.us.a2ip.ru/pdf/1712.00981v2.pdf
@@ -18,7 +19,7 @@
 - https://github.com/akku1506/Feature-Generating-Networks-for-ZSL
 
 ## Рекомендуемые навыки
-1. Английский язык на уровне чтения технической литературы
+1. Английский язык для чтения технической литературы
 2. Знание основ языка python
 3. Понимать работу нейронных сетей
  * CNN
@@ -29,14 +30,16 @@
 ## Материалы и курсы по машинному обучению, и python
 1.[Базовый курс по  ML](https://www.coursera.org/learn/machine-learning)
 
-2.[В дополнение](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+2.[Метрики точности в ML](https://habr.com/ru/company/ods/blog/328372/)
 
-3.[Keras доступен на офф сайте](https://keras.io/getting-started/sequential-model-guide/)
+3.[В дополнение](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 
-4.[Книги](https://drive.google.com/drive/folders/1ngisRbvktPKkRaX4pzQs9a6o_WIUubDi?usp=sharing)
+4.[Keras доступен на офф сайте](https://keras.io/getting-started/sequential-model-guide/)
+
+5.[Книги](https://drive.google.com/drive/folders/1ngisRbvktPKkRaX4pzQs9a6o_WIUubDi?usp=sharing)
 
 	1. Python и машинное обучение (ru),
 	2. Библиотека Keras - инструмент глубокого обучения,
 	3. Простой Python (ru)) 
 
-5.Канал в телеграмме с подборками книг: https://t.me/python_textbooks
+6.Канал в телеграмме с подборками книг: https://t.me/python_textbooks
